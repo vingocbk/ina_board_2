@@ -90,23 +90,6 @@ GenerateClassCluster=0
 DocumentUniqueId=QTOGAISQ
 
 [Document4]
-DocumentPath=lp5012.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GLGIODFX
-
-[Document5]
 DocumentPath=board_2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YIBFKUYX
 
-[Document6]
+[Document5]
 DocumentPath=CAMtastic3.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,124 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
-DocumentPath=Project Outputs for ina_board_2\board_2.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for ina_board_2\board_2.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for ina_board_2\board_2.G1
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for ina_board_2\board_2.G2
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for ina_board_2\board_2.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for ina_board_2\board_2.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for ina_board_2\board_2.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for ina_board_2\board_2.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for ina_board_2\board_2.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for ina_board_2\board_2.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for ina_board_2\board_2.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for ina_board_2\board_2.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for ina_board_2\board_2.GM11
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for ina_board_2\board_2.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for ina_board_2\board_2.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for ina_board_2\board_2.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for ina_board_2\board_2.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for ina_board_2\board_2.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for ina_board_2\board_2.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for ina_board_2\board_2.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for ina_board_2\board_2.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for ina_board_2\board_2.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for ina_board_2\board_2.REP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for ina_board_2\board_2.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for ina_board_2\board_2.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument26]
 DocumentPath=Project Outputs for ina_board_2\Design Rule Check - board_2.html
 DItemRevisionGUID=
 
@@ -441,6 +307,12 @@ OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
 PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType19=Logic Analyser Print
+OutputName19=Logic Analyser Prints
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
